@@ -1,0 +1,10 @@
+[
+  {"name": "Big Server (synthetic)", "tour": "atp", "by_surface": {
+    "hard": {"serve_won": 4550, "serve_played": 6800, "return_won": 2380, "return_played": 6700},
+    "clay": {"serve_won": 1250, "serve_played": 2000, "return_won": 720, "return_played": 2000},
+    "grass": {"serve_won": 1440, "serve_played": 2000, "return_won": 640, "return_played": 2000}}},
+  {"name": "Clay Grinder (synthetic)", "tour": "atp", "by_surface": {
+    "hard": {"serve_won": 3960, "serve_played": 6300, "return_won": 2500, "return_played": 6400},
+    "clay": {"serve_won": 3200, "serve_played": 5000, "return_won": 2150, "return_played": 5000},
+    "grass": {"serve_won": 510, "serve_played": 800, "return_won": 270, "return_played": 800}}}
+]

@@ -1,0 +1,31 @@
+{
+  "pointByPoint": [
+    {
+      "set": 1,
+      "games": [
+        {
+          "game": 2,
+          "score": {"homeScore": 1, "awayScore": 1, "serving": 2, "scoring": 2},
+          "points": [
+            {"homePoint": "0", "awayPoint": "15"},
+            {"homePoint": "0", "awayPoint": "30"},
+            {"homePoint": "15", "awayPoint": "30"},
+            {"homePoint": "15", "awayPoint": "40"},
+            {"homePoint": "15", "awayPoint": "40"}
+          ]
+        },
+        {
+          "game": 1,
+          "score": {"homeScore": 1, "awayScore": 0, "serving": 1, "scoring": 1},
+          "points": [
+            {"homePoint": "15", "awayPoint": "0"},
+            {"homePoint": "15", "awayPoint": "15"},
+            {"homePoint": "30", "awayPoint": "15"},
+            {"homePoint": "40", "awayPoint": "15"},
+            {"homePoint": "40", "awayPoint": "15"}
+          ]
+        }
+      ]
+    }
+  ]
+}
